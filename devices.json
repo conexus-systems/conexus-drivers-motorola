@@ -1,0 +1,1442 @@
+[
+  {
+    "codename": "avatrn",
+    "name": "edge 2024",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM7435-AB Snapdragon 7s Gen 2",
+    "lineage_device_tree": "android_device_motorola_avatrn",
+    "lineage_kernel_repo": "android_kernel_motorola_sm7435",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/avatrn.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm7435 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_avatrn",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "bangkk",
+    "name": "moto g84 5G",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6375 Snapdragon 695",
+    "lineage_device_tree": "android_device_motorola_bangkk",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/bangkk.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_bangkk",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "bathena",
+    "name": "defy 2021",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_motorola_bathena",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/bathena.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_bathena",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "berlin",
+    "name": "edge 20",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM7325 Snapdragon 778G 5G",
+    "lineage_device_tree": "android_device_motorola_berlin",
+    "lineage_kernel_repo": "android_kernel_motorola_sm7325",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/berlin.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm7325 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_berlin",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "berlna",
+    "name": "edge 2021",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM7325 Snapdragon 778G 5G",
+    "lineage_device_tree": "android_device_motorola_berlna",
+    "lineage_kernel_repo": "android_kernel_motorola_sm7325",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/berlna.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm7325 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_berlna",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "borneo",
+    "name": "moto g power 2021",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_motorola_borneo",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/borneo.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_borneo",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "bronco",
+    "name": "ThinkPhone by motorola",
+    "soc": "Qualcomm SM8475 Snapdragon 8+ Gen1",
+    "lineage_device_tree": "android_device_motorola_bronco",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8475",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/bronco.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8475 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_bronco",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "capri",
+    "name": "moto g10",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM4250 Snapdragon 460",
+    "lineage_device_tree": "android_device_motorola_capri",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/capri_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_capri",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "capri",
+    "name": "moto g10 power",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM4250 Snapdragon 460",
+    "lineage_device_tree": "android_device_motorola_capri",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/capri_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_capri",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "capri",
+    "name": "K13 Note",
+    "soc": "Qualcomm SM4250 Snapdragon 460",
+    "lineage_device_tree": "android_device_motorola_capri",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/capri_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_capri",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "caprip",
+    "name": "moto g30",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_motorola_caprip",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/caprip_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_caprip",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "caprip",
+    "name": "K13 Pro",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_motorola_caprip",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/caprip_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_caprip",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "cebu",
+    "name": "moto g9 power",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_motorola_cebu",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/cebu_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_cebu",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "cebu",
+    "name": "K12 Pro",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_motorola_cebu",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/cebu_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_cebu",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "denver",
+    "name": "moto g stylus 5G",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM4350 Snapdragon 480",
+    "lineage_device_tree": "android_device_motorola_denver",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/denver.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_denver",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "devon",
+    "name": "moto g32",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6225 Snapdragon 680 4G",
+    "lineage_device_tree": "android_device_motorola_devon",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/devon.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_devon",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "dubai",
+    "name": "edge 30",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM7325-AE Snapdragon 778G+ 5G",
+    "lineage_device_tree": "android_device_motorola_dubai",
+    "lineage_kernel_repo": "android_kernel_motorola_sm7325",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/dubai.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm7325 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_dubai",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "eqs",
+    "name": "edge 30 ultra",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM8475 Snapdragon 8+ Gen1",
+    "lineage_device_tree": "android_device_motorola_eqs",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8475",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/eqs.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8475 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_eqs",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "fogo",
+    "name": "moto g 5G - 2024",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM4375 Snapdragon 4 Gen 1",
+    "lineage_device_tree": "android_device_motorola_fogo",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/fogo.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_fogo",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "fogos",
+    "name": "moto g34 5G",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6375 Snapdragon 695",
+    "lineage_device_tree": "android_device_motorola_fogos",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/fogos_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_fogos",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "fogos",
+    "name": "moto g45 5G",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6375-AC Snapdragon 6s Gen 3",
+    "lineage_device_tree": "android_device_motorola_fogos",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/fogos_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_fogos",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "genevn",
+    "name": "moto g stylus 5G (2023)",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6450 Snapdragon 6 Gen 1",
+    "lineage_device_tree": "android_device_motorola_genevn",
+    "lineage_kernel_repo": "android_kernel_motorola_sm7435",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/genevn.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm7435 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_genevn",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "guam",
+    "name": "moto e7 plus",
+    "soc": "Qualcomm SM4250 Snapdragon 460",
+    "lineage_device_tree": "android_device_motorola_guam",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/guam_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_guam",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "guam",
+    "name": "K12",
+    "soc": "Qualcomm SM4250 Snapdragon 460",
+    "lineage_device_tree": "android_device_motorola_guam",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/guam_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_guam",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "guamp",
+    "name": "moto g9 play",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_motorola_guamp",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/guamp_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_guamp",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "guamp",
+    "name": "moto g9",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_motorola_guamp",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/guamp_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_guamp",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "guamp",
+    "name": "K12 Note",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_motorola_guamp",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/guamp_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_guamp",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "hawao",
+    "name": "moto g42",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6225 Snapdragon 680 4G",
+    "lineage_device_tree": "android_device_motorola_hawao",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/hawao.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_hawao",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "ibiza",
+    "name": "moto g50",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM4350 Snapdragon 480",
+    "lineage_device_tree": "android_device_motorola_ibiza",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/ibiza.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_ibiza",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "kane",
+    "name": "one vision",
+    "soc": "Samsung Exynos 9609",
+    "lineage_device_tree": "android_device_motorola_kane",
+    "lineage_kernel_repo": "android_kernel_motorola_exynos9610",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/kane_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_exynos9610 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_kane",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "kane",
+    "name": "p50",
+    "soc": "Samsung Exynos 9609",
+    "lineage_device_tree": "android_device_motorola_kane",
+    "lineage_kernel_repo": "android_kernel_motorola_exynos9610",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/kane_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_exynos9610 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_kane",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "kiev",
+    "name": "moto g 5G",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM7225 Snapdragon 750G",
+    "lineage_device_tree": "android_device_motorola_kiev",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/kiev_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_kiev",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "kiev",
+    "name": "moto one 5G ace",
+    "soc": "Qualcomm SM7225 Snapdragon 750G",
+    "lineage_device_tree": "android_device_motorola_kiev",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/kiev_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_kiev",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lamu",
+    "name": "moto g15",
+    "sub_brand": "moto-g",
+    "soc": "MediaTek Helio G81 Extreme",
+    "lineage_device_tree": "android_device_motorola_lamu",
+    "lineage_kernel_repo": "android_kernel_motorola_lamu_manifest",
+    "kernel_version": "6.6",
+    "is_ab": "sim",
+    "install_method": "fastboot_custom",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lamu_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_custom', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_lamu_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_lamu",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lamu",
+    "name": "moto g15 power",
+    "sub_brand": "moto-g",
+    "soc": "MediaTek Helio G81 Extreme",
+    "lineage_device_tree": "android_device_motorola_lamu",
+    "lineage_kernel_repo": "android_kernel_motorola_lamu_manifest",
+    "kernel_version": "6.6",
+    "is_ab": "sim",
+    "install_method": "fastboot_custom",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lamu_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_custom', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_lamu_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_lamu",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lamu",
+    "name": "moto g05",
+    "sub_brand": "moto-g",
+    "soc": "MediaTek Helio G81 Extreme",
+    "lineage_device_tree": "android_device_motorola_lamu",
+    "lineage_kernel_repo": "android_kernel_motorola_lamu_manifest",
+    "kernel_version": "6.6",
+    "is_ab": "sim",
+    "install_method": "fastboot_custom",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lamu_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_custom', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_lamu_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_lamu",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "manaus",
+    "name": "edge 40 neo",
+    "sub_brand": "edge",
+    "soc": "MediaTek Dimensity 7030",
+    "lineage_device_tree": "android_device_motorola_manaus",
+    "lineage_kernel_repo": "android_kernel_motorola_mt6879",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/manaus.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_mt6879 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_manaus",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "miami",
+    "name": "edge 30 neo",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM6375 Snapdragon 695",
+    "lineage_device_tree": "android_device_motorola_miami",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/miami.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_miami",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "milanf",
+    "name": "moto g stylus 5G (2022)",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6375 Snapdragon 695",
+    "lineage_device_tree": "android_device_motorola_milanf",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/milanf.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_milanf",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "nairo",
+    "name": "moto g 5G plus",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM7250 Snapdragon 765G",
+    "lineage_device_tree": "android_device_motorola_nairo",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/nairo_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_nairo",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "nairo",
+    "name": "moto one 5G",
+    "soc": "Qualcomm SM7250 Snapdragon 765G",
+    "lineage_device_tree": "android_device_motorola_nairo",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/nairo_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_nairo",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "nio",
+    "name": "edge s",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "lineage_device_tree": "android_device_motorola_nio",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/nio_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_nio",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "nio",
+    "name": "moto g100",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "lineage_device_tree": "android_device_motorola_nio",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/nio_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_nio",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "pstar",
+    "name": "edge 20 pro",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "lineage_device_tree": "android_device_motorola_pstar",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/pstar.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_pstar",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "racer",
+    "name": "edge",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM7250 Snapdragon 765G",
+    "lineage_device_tree": "android_device_motorola_racer",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "17.1",
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/racer.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_racer",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "rhode",
+    "name": "moto g52",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6225 Snapdragon 680 4G",
+    "lineage_device_tree": "android_device_motorola_rhode",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6225",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/rhode.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6225 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_rhode",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "rhodep",
+    "name": "moto g82 5G",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM6375 Snapdragon 695",
+    "lineage_device_tree": "android_device_motorola_rhodep",
+    "lineage_kernel_repo": "android_kernel_motorola_sm6375",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/rhodep.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm6375 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_rhodep",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "rtwo",
+    "name": "edge 40 pro",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_motorola_rtwo",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/rtwo_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_rtwo",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "rtwo",
+    "name": "moto X40",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_motorola_rtwo",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/rtwo_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_rtwo",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "rtwo",
+    "name": "edge+ (2023)",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_motorola_rtwo",
+    "lineage_kernel_repo": "android_kernel_motorola_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/rtwo_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_rtwo",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "troika",
+    "name": "one action",
+    "soc": "Samsung Exynos 9609",
+    "lineage_device_tree": "android_device_motorola_troika",
+    "lineage_kernel_repo": "android_kernel_motorola_exynos9610",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/troika.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_exynos9610 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_troika",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "tundra",
+    "name": "edge 30 fusion",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM8350-AC Snapdragon 888+",
+    "lineage_device_tree": "android_device_motorola_tundra",
+    "lineage_kernel_repo": "android_kernel_motorola_sm7325",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/tundra_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm7325 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_tundra",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "tundra",
+    "name": "moto S30 Pro",
+    "soc": "Qualcomm SM8350-AC Snapdragon 888+",
+    "lineage_device_tree": "android_device_motorola_tundra",
+    "lineage_kernel_repo": "android_kernel_motorola_sm7325",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/tundra_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm7325 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_tundra",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "xpeng",
+    "name": "moto g200 5G",
+    "sub_brand": "moto-g",
+    "soc": "Qualcomm SM8350-AC Snapdragon 888+",
+    "lineage_device_tree": "android_device_motorola_xpeng",
+    "lineage_kernel_repo": "android_kernel_motorola_sm7325",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/xpeng_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm7325 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_xpeng",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "xpeng",
+    "name": "Edge S30",
+    "sub_brand": "edge",
+    "soc": "Qualcomm SM8350-AC Snapdragon 888+",
+    "lineage_device_tree": "android_device_motorola_xpeng",
+    "lineage_kernel_repo": "android_kernel_motorola_sm7325",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_motorola",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/xpeng_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_motorola', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_motorola_sm7325 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_motorola_xpeng",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  }
+]
