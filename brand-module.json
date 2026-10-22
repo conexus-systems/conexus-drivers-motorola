@@ -1,0 +1,230 @@
+{
+  "brand": "motorola",
+  "sub_brands": [
+    "edge",
+    "moto-g"
+  ],
+  "status": "unverified",
+  "devices": [
+    {
+      "codename": "avatrn",
+      "model": "edge 2024"
+    },
+    {
+      "codename": "bangkk",
+      "model": "moto g84 5G"
+    },
+    {
+      "codename": "bathena",
+      "model": "defy 2021"
+    },
+    {
+      "codename": "berlin",
+      "model": "edge 20"
+    },
+    {
+      "codename": "berlna",
+      "model": "edge 2021"
+    },
+    {
+      "codename": "borneo",
+      "model": "moto g power 2021"
+    },
+    {
+      "codename": "bronco",
+      "model": "ThinkPhone by motorola"
+    },
+    {
+      "codename": "capri",
+      "model": "moto g10"
+    },
+    {
+      "codename": "capri",
+      "model": "moto g10 power"
+    },
+    {
+      "codename": "capri",
+      "model": "K13 Note"
+    },
+    {
+      "codename": "caprip",
+      "model": "moto g30"
+    },
+    {
+      "codename": "caprip",
+      "model": "K13 Pro"
+    },
+    {
+      "codename": "cebu",
+      "model": "moto g9 power"
+    },
+    {
+      "codename": "cebu",
+      "model": "K12 Pro"
+    },
+    {
+      "codename": "denver",
+      "model": "moto g stylus 5G"
+    },
+    {
+      "codename": "devon",
+      "model": "moto g32"
+    },
+    {
+      "codename": "dubai",
+      "model": "edge 30"
+    },
+    {
+      "codename": "eqs",
+      "model": "edge 30 ultra"
+    },
+    {
+      "codename": "fogo",
+      "model": "moto g 5G - 2024"
+    },
+    {
+      "codename": "fogos",
+      "model": "moto g34 5G"
+    },
+    {
+      "codename": "fogos",
+      "model": "moto g45 5G"
+    },
+    {
+      "codename": "genevn",
+      "model": "moto g stylus 5G (2023)"
+    },
+    {
+      "codename": "guam",
+      "model": "moto e7 plus"
+    },
+    {
+      "codename": "guam",
+      "model": "K12"
+    },
+    {
+      "codename": "guamp",
+      "model": "moto g9 play"
+    },
+    {
+      "codename": "guamp",
+      "model": "moto g9"
+    },
+    {
+      "codename": "guamp",
+      "model": "K12 Note"
+    },
+    {
+      "codename": "hawao",
+      "model": "moto g42"
+    },
+    {
+      "codename": "ibiza",
+      "model": "moto g50"
+    },
+    {
+      "codename": "kane",
+      "model": "one vision"
+    },
+    {
+      "codename": "kane",
+      "model": "p50"
+    },
+    {
+      "codename": "kiev",
+      "model": "moto g 5G"
+    },
+    {
+      "codename": "kiev",
+      "model": "moto one 5G ace"
+    },
+    {
+      "codename": "lamu",
+      "model": "moto g15"
+    },
+    {
+      "codename": "lamu",
+      "model": "moto g15 power"
+    },
+    {
+      "codename": "lamu",
+      "model": "moto g05"
+    },
+    {
+      "codename": "manaus",
+      "model": "edge 40 neo"
+    },
+    {
+      "codename": "miami",
+      "model": "edge 30 neo"
+    },
+    {
+      "codename": "milanf",
+      "model": "moto g stylus 5G (2022)"
+    },
+    {
+      "codename": "nairo",
+      "model": "moto g 5G plus"
+    },
+    {
+      "codename": "nairo",
+      "model": "moto one 5G"
+    },
+    {
+      "codename": "nio",
+      "model": "edge s"
+    },
+    {
+      "codename": "nio",
+      "model": "moto g100"
+    },
+    {
+      "codename": "pstar",
+      "model": "edge 20 pro"
+    },
+    {
+      "codename": "racer",
+      "model": "edge"
+    },
+    {
+      "codename": "rhode",
+      "model": "moto g52"
+    },
+    {
+      "codename": "rhodep",
+      "model": "moto g82 5G"
+    },
+    {
+      "codename": "rtwo",
+      "model": "edge 40 pro"
+    },
+    {
+      "codename": "rtwo",
+      "model": "moto X40"
+    },
+    {
+      "codename": "rtwo",
+      "model": "edge+ (2023)"
+    },
+    {
+      "codename": "troika",
+      "model": "one action"
+    },
+    {
+      "codename": "tundra",
+      "model": "edge 30 fusion"
+    },
+    {
+      "codename": "tundra",
+      "model": "moto S30 Pro"
+    },
+    {
+      "codename": "xpeng",
+      "model": "moto g200 5G"
+    },
+    {
+      "codename": "xpeng",
+      "model": "Edge S30"
+    }
+  ]
+}
